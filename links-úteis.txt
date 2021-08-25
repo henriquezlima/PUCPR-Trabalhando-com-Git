@@ -1,0 +1,11 @@
+Arquivo de texto contendo um repositório de links úteis para quem está aprendendo Git.
+
+# Criação de README:
+
+https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
+
+https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-perfil-no-github
+
+https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
+
+---------------------------------------------------------------------------------------------------
