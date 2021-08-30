@@ -9,6 +9,17 @@ https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-p
 https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
 
 ---------------------------------------------------------------------------------------------------
-# Como atualizar/ sincronizar o master do repositório
+# Como atualizar/sincronizar o master do repositório:
 
 https://pt.stackoverflow.com/questions/3389/como-atualizar-sincronizar-o-master-do-meu-reposit%C3%B3rio-no-github-com-o-master-or
+
+---------------------------------------------------------------------------------------------------
+# Dicas gerais:
+
+https://icmcjunior.com.br/como-organizar-seu-projeto-de-desenvolvimento-de-software-com-git-e-github/?gclid=EAIaIQobChMIiae79ujK8gIVCYbICh3NIwsoEAAYAyAAEgKzZvD_BwE
+
+https://imasters.com.br/desenvolvimento/5-dicas-sobre-issues-e-comentarios-no-github
+
+https://docs.microsoft.com/pt-br/contribute/how-to-write-workflows-major
+
+---------------------------------------------------------------------------------------------------
