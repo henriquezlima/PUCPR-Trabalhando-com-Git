@@ -9,3 +9,6 @@ https://digitalinnovation.one/artigos/6-passos-para-criar-um-readme-bonitao-de-p
 https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
 
 ---------------------------------------------------------------------------------------------------
+# Como atualizar/ sincronizar o master do repositório
+
+https://pt.stackoverflow.com/questions/3389/como-atualizar-sincronizar-o-master-do-meu-reposit%C3%B3rio-no-github-com-o-master-or
