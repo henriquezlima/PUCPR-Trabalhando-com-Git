@@ -23,7 +23,7 @@ https://imasters.com.br/desenvolvimento/5-dicas-sobre-issues-e-comentarios-no-gi
 https://docs.microsoft.com/pt-br/contribute/how-to-write-workflows-major
 
 ---------------------------------------------------------------------------------------------------
-# Como criar um pull request:
+# Como criar um Pull Request:
 
 https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt
 
@@ -33,9 +33,17 @@ https://docs.github.com/pt/github/collaborating-with-pull-requests/proposing-cha
 
 https://docs.github.com/pt/github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-another-users-repository
 
----------------------------------------------------------------------------------------------------------------------------
-# Git e Github: Estratégias de ramificação, Conflitos e Pull Requests
+https://www.youtube.com/watch?v=Du04jBWrv4A
+
+----------------------------------------------------------------------------------------------------
+# Git e Github: Estratégias de ramificação, Conflitos e Pull Requests:
 
 https://www.alura.com.br/conteudo/git-github-branching-conflitos-pull-requests
 
 ----------------------------------------------------------------------------------------------------
+# Alterando configuração para pública e privada:
+
+https://docs.github.com/pt/github/administering-a-repository/managing-repository-settings/setting-repository-visibility
+
+---------------------------------------------------------------------------------------------------
+
