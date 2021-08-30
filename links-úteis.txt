@@ -23,3 +23,8 @@ https://imasters.com.br/desenvolvimento/5-dicas-sobre-issues-e-comentarios-no-gi
 https://docs.microsoft.com/pt-br/contribute/how-to-write-workflows-major
 
 ---------------------------------------------------------------------------------------------------
+# Como criar um pull request
+
+https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt
+
+----------------------------------------------------------------------------------------------------
