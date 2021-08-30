@@ -50,3 +50,9 @@ https://docs.github.com/pt/github/administering-a-repository/managing-repository
 
 https://cmder.net/
 
+---------------------------------------------------------------------------------------------------
+# Resolver um conflito de merge no GitHub:
+
+https://docs.github.com/pt/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github
+
+-----------------------------------------------------------------------------------------------------------
