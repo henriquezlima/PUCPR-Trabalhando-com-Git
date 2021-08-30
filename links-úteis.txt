@@ -33,6 +33,8 @@ https://docs.github.com/pt/github/collaborating-with-pull-requests/proposing-cha
 
 https://docs.github.com/pt/github/managing-files-in-a-repository/managing-files-on-github/editing-files-in-another-users-repository
 
+
+
 https://www.youtube.com/watch?v=Du04jBWrv4A
 
 ----------------------------------------------------------------------------------------------------
@@ -46,4 +48,8 @@ https://www.alura.com.br/conteudo/git-github-branching-conflitos-pull-requests
 https://docs.github.com/pt/github/administering-a-repository/managing-repository-settings/setting-repository-visibility
 
 ---------------------------------------------------------------------------------------------------
+# Resolver um conflito de merge no GitHub
 
+https://docs.github.com/pt/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github
+
+-----------------------------------------------------------------------------------------------------------
