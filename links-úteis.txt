@@ -56,3 +56,13 @@ https://cmder.net/
 https://docs.github.com/pt/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github
 
 -----------------------------------------------------------------------------------------------------------
+# Como fazer comentários em uma Pull Request:
+
+https://docs.github.com/pt/github/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request
+
+---------------------------------------------------------------------------------------------------
+# Resolvendo conflitos ao fazer Merge:
+
+https://docs.github.com/pt/github/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts
+
+https://metring.com.br/guia-resolvendo-conflitos-no-git
