@@ -46,4 +46,7 @@ https://www.alura.com.br/conteudo/git-github-branching-conflitos-pull-requests
 https://docs.github.com/pt/github/administering-a-repository/managing-repository-settings/setting-repository-visibility
 
 ---------------------------------------------------------------------------------------------------
+# Download ferramenta CMDER:
+
+https://cmder.net/
 
